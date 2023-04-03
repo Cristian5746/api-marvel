@@ -28,7 +28,7 @@ export default {
   background-color: #f1f2f0;
 }
 #nav{
-  background-color: #6c3234;
+  background-color: #b93b3f;
   height: 90px;
 }
 img{
